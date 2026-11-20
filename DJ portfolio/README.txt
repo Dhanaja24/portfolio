@@ -1,21 +1,50 @@
-DHANAJA S - PERSONAL PORTFOLIO WEBSITE
+# DHANAJA S | PERSONAL PORTFOLIO WEBSITE
 
-Files:
-1. index.html  - Website structure and Bootstrap components
-2. style.css   - Custom design, colors, layout and responsive styling
-3. script.js   - Small interactive features using JavaScript
+A personal portfolio website showcasing my profile, technical skills, projects, educational background, and experience.
 
-HOW TO RUN:
-1. Extract this ZIP file.
-2. Open the folder.
-3. Double-click index.html to open it in your browser.
-4. Internet connection is needed for Bootstrap and Google Fonts CDN resources.
+## 📁 Project Structure
 
-CUSTOMIZE:
-- Replace the DS initials with your photo if you want.
-- Check your email, phone number, education and experience details.
-- Add the correct GitHub repository URLs to each project when available.
-- Add your resume PDF link if you want a resume button.
+```text
+Dhanaja-Portfolio/
+│
+├── index.html       # Website structure and Bootstrap components
+├── style.css        # Custom design, colors, layout and responsive styling
+├── script.js        # Interactive features using JavaScript
+├── Dhanaja resume.pdf
+└── README.md        # Project documentation
+```
 
-TECHNOLOGIES:
-HTML5, CSS3, JavaScript, Bootstrap 5.3
+## 🚀 How to Run
+
+1. Download or clone this repository.
+2. Extract the ZIP file if downloaded.
+3. Open the project folder.
+4. Double-click `index.html` to launch the website in your browser.
+5. An internet connection is required for Bootstrap and Google Fonts CDN resources.
+
+## ⚙️ Customization
+
+- Replace the DS initials with a profile photograph if desired.
+- Update your email address and phone number.
+- Verify your educational and experience details.
+- Add the correct GitHub repository URLs to your projects.
+- Update the resume PDF link when necessary.
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5.3
+
+## 👩‍💻 Author
+
+**Dhanaja S**
+
+- GitHub: [Dhanaja24](https://github.com/Dhanaja24)
+- LinkedIn: [Connect with me](https://linkedin.com/in/dhanaja-sundaravarathan-9b4778232)
+- Email: dhanajasa@gmail.com
+
+---
+
+*Designed and developed by Dhanaja S.*
